@@ -9,7 +9,6 @@
   <img align="center" alt="Araujo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Araujo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Araujo-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Araujo-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/a6ce3e0917d8e87e66dc4b06081aae52.gif">
 
 </div>
   
