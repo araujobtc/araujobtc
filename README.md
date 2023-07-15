@@ -1,4 +1,3 @@
-### Oii, sou a Isabelle Araújo, técnica em informática!
 <div align="center">
   <a href="https://github.com/araujobtc">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=araujobtc&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true"/>
